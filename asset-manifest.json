@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PortfolioLM/static/css/main.3cb979d0.css",
+    "main.js": "/PortfolioLM/static/js/main.2a808998.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PortfolioLM/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioLM/static/js/787.1ed0c42c.chunk.js",
+    "static/media/zooApp.png": "/PortfolioLM/static/media/zooApp.3aef8d1db69cc98574f3.png",
+    "static/media/skywarsPlugin.png": "/PortfolioLM/static/media/skywarsPlugin.118fa0b033b442318cfa.png",
+    "static/media/CV-Lilian_Malinge.pdf": "/PortfolioLM/static/media/CV-Lilian_Malinge.a4b40ac3a71539210652.pdf",
+    "static/media/meteo.png": "/PortfolioLM/static/media/meteo.7dc032093ba6b6863a81.png",
+    "static/media/home-main.svg": "/PortfolioLM/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/PortfolioLM/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/PortfolioLM/static/media/logo.2b279270a14afc277553.png",
+    "static/media/home-bg.jpg": "/PortfolioLM/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/PortfolioLM/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/PortfolioLM/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/PortfolioLM/index.html",
+    "main.3cb979d0.css.map": "/PortfolioLM/static/css/main.3cb979d0.css.map",
+    "main.2a808998.js.map": "/PortfolioLM/static/js/main.2a808998.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PortfolioLM/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioLM/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb979d0.css",
+    "static/js/main.2a808998.js"
+  ]
+}
